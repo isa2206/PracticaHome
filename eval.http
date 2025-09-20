@@ -1,0 +1,6 @@
+@eval_HostAddress = http://localhost:5253
+
+GET {{eval_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

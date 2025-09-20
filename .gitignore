@@ -1,0 +1,19 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilados
+bin/
+obj/
+
+# Archivos de configuración local
+*.cache
+*.log
+
+# Archivos generados por VS
+*.dbmdl
+*.bak
+
+# Archivos temporales
+*.tmp
